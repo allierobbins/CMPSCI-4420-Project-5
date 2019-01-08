@@ -1,0 +1,22 @@
+This is the README file for Allie Robbins' Digital Image Assignment 5
+
+All files were written in C++ on Visual Studio 2017, referencing OpenCV 3.4.1.
+
+List of Files included in program:
+  - program1
+  - makefile
+  - README
+
+Image provided from Assignment 5 details:
+  - noisy_backyard.jpg
+
+To execute the program:
+    Run command "make" to build/compile the programs.
+    Run command "./program1 imageName" to run the program after it is built
+
+To clean the object files:
+    Run command "make clean".
+
+Purpose of program:
+    The purpose of this program is to write a frequency-domain filter to remove
+      periodic noise from a given image.
